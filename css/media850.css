@@ -1,0 +1,31 @@
+@media (max-width:850px) {
+    #container {
+        bottom:0;
+        positon:absolute;
+        width:100%;
+        left:0;
+    }
+
+    #container3 h2{
+        display:none;
+    }
+
+    #content img{
+        width:380px;
+    }
+    
+    body{
+        margin-top:60px;
+    }
+
+    #content h2 {
+        display:unset;
+    }
+
+    #content{
+        padding-bottom:5%;
+        margin-bottom:50%;
+    }
+    
+
+}

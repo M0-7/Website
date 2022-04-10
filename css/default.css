@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+html {
+    min-height: 100%;
+    position:relative;
+    overflow-x: hidden
+}
+header {
+    height: 10%;
+    display: inline-block;
+}
+footer {
+    height:10%;
+    display: inline-block;
+}
+
+main {
+    min-height: 80%; 
+    display: inline-block;
+}
+
+a {
+    text-decoration:none;
+}
+
+a:visited, a:link {
+    color: skyblue;
+}
+      /* mouse over link */
+a:hover, a:active {
+    color: #6D0062;
+    text-decoration:underline;
+}
+
+body {
+    display: inline-block;
+    height: 100%;
+    font-family: Muli, sans-serif;
+    color:white;
+    background-color: #11161d;
+    opacity: 1.1;
+    font-weight: 20;
+    line-height: 1.15;
+    letter-spacing: -.003em;
+    font-size: 30px;
+    padding: 70px;
+    padding-bottom:30%;
+}

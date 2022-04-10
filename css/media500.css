@@ -1,0 +1,35 @@
+@media screen and (max-width:500px) {
+    #container {
+        bottom:0;
+        positon:absolute;
+        width:100%;
+        margin-top:500px;
+        right:0;
+    }
+
+    #container2{
+        padding-right:25%;
+    }
+
+    #container3 h2{
+        display:none;
+    }
+
+    #content {
+        margin-bottom:50%;
+    }
+
+    #content img{
+        width:350px;
+    }
+    
+    body{
+        margin-top:60px;
+    }
+
+    #content h2 {
+        display:unset;
+    }
+    
+
+}
