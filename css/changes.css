@@ -82,3 +82,13 @@
     visibility:hiddden;
     display:none;
 }
+
+#image {
+    animation-name:slidein;
+    animation-duration: 2s;
+}
+
+@keyframes slidein {
+    from {width:300%;}
+    to {width:100%;}
+}
