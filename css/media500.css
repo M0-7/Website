@@ -1,6 +1,6 @@
 @media screen and (max-width:500px) {
     
-    #container {
+    #container3 {
         bottom:0;
         positon:absolute;
         width:100%;
@@ -8,27 +8,19 @@
         right:0;
     }
 
-    #container2 {
+    #container1 {
         padding-right:42%;
     }
 
-    #container3 h2{
+    #container2 h1{
         display:none;
-    }
-
-    #content {
-        margin-bottom:50%;
     }
 
     #content img{
         width:350px;
     }
-    
-    body{
-        margin-top:60px;
-    }
 
-    #content h2 {
+    #content h1 {
         display:unset;
     }
     
