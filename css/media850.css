@@ -1,8 +1,14 @@
 @media (max-width:850px) {
+    
     #container3 {
         bottom:0;
         positon:absolute;
         width:100%;
+        left:0;
+        margin:0;
+    }
+
+    #container1 {
         left:0;
     }
 

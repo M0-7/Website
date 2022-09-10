@@ -5,11 +5,12 @@
         positon:absolute;
         width:100%;
         margin-top:500px;
-        right:0;
+        left:0;
     }
 
     #container1 {
         padding-right:42%;
+        left:0;
     }
 
     #container2 h1{
