@@ -1,8 +1,7 @@
 @media screen and (max-width:355px) {
-    #container2 {
-        position:relative;
+    #container1 {
+        position:absolute;
         top:0;
-        height: 3.5rem;
-        width: 100%;
+        left:0;
     }
 }

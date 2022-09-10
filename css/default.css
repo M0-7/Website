@@ -3,9 +3,11 @@
 
 html {
     min-height: 100%;
-    position:relative;
-    overflow-x: hidden
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
+
 header {
     height: 10%;
     display: inline-block;
@@ -39,12 +41,9 @@ body {
     font-family: Muli, sans-serif;
     color:white;
     background-color: #11161d;
-    opacity: 1.1;
-    font-weight: 20;
-    line-height: 1.15;
-    letter-spacing: -.003em;
     font-size: 30px;
     padding: 70px;
     padding-bottom:30%;
 }
+
 
